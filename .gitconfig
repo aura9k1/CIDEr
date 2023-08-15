@@ -1,0 +1,7 @@
+[user]
+    email = rjoshpaddy@gmail.com
+    name = aura9k1
+[gpg]
+    program = gpg2
+[commit]
+    gpgsign = true
